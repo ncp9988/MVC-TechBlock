@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS techBlock_db;
+
+CREATE DATABASE techBlock_db;
